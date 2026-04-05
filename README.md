@@ -77,7 +77,7 @@ npm start
 ## 🌐 Usage
 
 * Open browser and go to:
-  👉 `(https://bag-project.onrender.com)`
+  👉 `https://bag-project.onrender.com`
 
 ---
 
