@@ -77,7 +77,7 @@ npm start
 ## 🌐 Usage
 
 * Open browser and go to:
-  👉 `http://localhost:3000`
+  👉 `(https://bag-project.onrender.com)`
 
 ---
 
